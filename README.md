@@ -44,13 +44,23 @@
 
 ---
 
+---
+
 ## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Sandhya23761A1232&theme=default" alt="GitHub Streak" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sandhya23761A1232&show_icons=true&theme=default" alt="Sandhya's GitHub stats" />
 </p>
 
+---
+
+## Connect With Me
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Sandhya23761A1232&theme=default" alt="GitHub Streak" />
+  <a href="mailto:sandhyamekala435@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/sandhyamekala">LinkedIn</a>
 </p>
 
 
