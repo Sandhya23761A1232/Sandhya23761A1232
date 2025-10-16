@@ -46,18 +46,13 @@
 
 ---
 
-## GitHub Activity
-
+## GitHub Stats
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Sandhya23761A1232&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Sandhya23761A1232&theme=default" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandhya23761A1232&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sandhya23761A1232&theme=flat" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandhya23761A1232&show_icons=true&theme=default" alt="Sandhya's GitHub stats" />
 </p>
 
 ---
