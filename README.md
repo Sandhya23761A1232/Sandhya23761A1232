@@ -50,8 +50,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandhya23761A1232&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=Sandhya23761A1232&theme=default" alt="GitHub Streak" />
 </p>
+
 
 ---
 
