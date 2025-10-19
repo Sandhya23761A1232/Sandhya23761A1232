@@ -47,9 +47,7 @@
 ---
 
 ## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Sandhya23761A1232&theme=default" alt="GitHub Streak" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sandhya23761A1232&show_icons=true&theme=default" alt="Sandhya's GitHub stats" />
